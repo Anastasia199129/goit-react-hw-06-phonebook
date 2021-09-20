@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import shortid from 'shortid';
+// import React, { useEffect, useState } from 'react';
+// import shortid from 'shortid';
 import PropTypes from 'prop-types';
 import s from './App.css';
 import ContactForm from './components/contactForm/ContactForm';
